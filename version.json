@@ -1,1 +1,41 @@
-{"main":"1.0.0.0","plugIn":{"彩盘":"1.0.0.0","窗顶":"1.0.0.0","速搜":"1.0.0.0","便签日程":"1.0.0.0","尺":"1.0.0.0","系统悬浮窗":"1.0.0.0"}}
+{
+  "Main": "2.0.0.0",
+  "PlugIns": [
+    {
+      "Id": "ColorPalette",
+      "Name": "彩盘",
+      "Version": "1.0.0.0",
+      "FileName": "彩盘.zip"
+    },
+    {
+      "Id": "QuickSearch",
+      "Name": "速搜",
+      "Version": "1.0.0.0",
+      "FileName": "速搜.zip"
+    },
+    {
+      "Id": "Ruler",
+      "Name": "尺",
+      "Version": "1.0.0.0",
+      "FileName": "尺.zip"
+    },
+    {
+      "Id": "ScheduleNote",
+      "Name": "便签日程",
+      "Version": "1.0.0.0",
+      "FileName": "便签日程.zip"
+    },
+    {
+      "Id": "SystemUsage",
+      "Name": "系统悬浮窗",
+      "Version": "1.0.0.0",
+      "FileName": "系统悬浮窗.zip"
+    },
+    {
+      "Id": "TopTool",
+      "Name": "窗顶",
+      "Version": "1.0.0.0",
+      "FileName": "窗顶.zip"
+    }
+  ]
+}
