@@ -6,42 +6,48 @@
       "Name": "彩盘",
       "Version": "1.0.0.0",
       "FileName": "彩盘.rar",
-      "PlugInType": "Media"
+      "PlugInType": "Media",
+      "Description": "便捷调色"
     },
     {
       "Id": "QuickSearch",
       "Name": "速搜",
       "Version": "1.0.0.0",
       "FileName": "速搜.rar",
-      "PlugInType": "Network"
+      "PlugInType": "Network",
+      "Description": "快速调出搜索栏并附带剪切板内容"
     },
     {
       "Id": "Ruler",
       "Name": "尺",
       "Version": "1.0.0.0",
       "FileName": "尺.rar",
-      "PlugInType": "Life"
+      "PlugInType": "Life",
+      "Description": "用屏幕量取实际尺寸"
     },
     {
       "Id": "ScheduleNote",
       "Name": "便签日程",
       "Version": "1.0.0.0",
       "FileName": "便签日程.rar",
-      "PlugInType": "Life"
+      "PlugInType": "Life",
+      "Description": "当前任务醒目提醒，到点自动切换"
     },
     {
       "Id": "SystemUsage",
       "Name": "系统悬浮窗",
       "Version": "1.0.0.0",
       "FileName": "系统悬浮窗.rar",
-      "PlugInType": "System"
+      "PlugInType": "System",
+      "Description": "系统CPU和内存占用显示"
     },
     {
       "Id": "TopTool",
       "Name": "窗顶",
       "Version": "1.0.0.0",
       "FileName": "窗顶.rar",
-      "PlugInType": "System"
+      "PlugInType": "System",
+      "Description": "置顶/取消置顶目标窗体"
     }
   ]
 }
