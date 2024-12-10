@@ -5,43 +5,43 @@
       "Id": "ColorPalette",
       "Name": "彩盘",
       "Version": "1.0.0.0",
-      "FileName": "彩盘.zip",
-      "PlugInType": 2
+      "FileName": "彩盘.rar",
+      "PlugInType": "Media"
     },
     {
       "Id": "QuickSearch",
       "Name": "速搜",
       "Version": "1.0.0.0",
-      "FileName": "速搜.zip",
-      "PlugInType": 3
+      "FileName": "速搜.rar",
+      "PlugInType": "Network"
     },
     {
       "Id": "Ruler",
       "Name": "尺",
       "Version": "1.0.0.0",
-      "FileName": "尺.zip",
-      "PlugInType": 4
+      "FileName": "尺.rar",
+      "PlugInType": "Life"
     },
     {
       "Id": "ScheduleNote",
       "Name": "便签日程",
       "Version": "1.0.0.0",
-      "FileName": "便签日程.zip",
-      "PlugInType": 4
+      "FileName": "便签日程.rar",
+      "PlugInType": "Life"
     },
     {
       "Id": "SystemUsage",
       "Name": "系统悬浮窗",
       "Version": "1.0.0.0",
-      "FileName": "系统悬浮窗.zip",
-      "PlugInType": 1
+      "FileName": "系统悬浮窗.rar",
+      "PlugInType": "System"
     },
     {
       "Id": "TopTool",
       "Name": "窗顶",
       "Version": "1.0.0.0",
-      "FileName": "窗顶.zip",
-      "PlugInType": 1
+      "FileName": "窗顶.rar",
+      "PlugInType": "System"
     }
   ]
 }
