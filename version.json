@@ -48,6 +48,14 @@
       "FileName": "窗顶.rar",
       "PlugInType": "System",
       "Description": "置顶/取消置顶目标窗体"
+    },
+    {
+      "Id": "TextDifference",
+      "Name": "文异",
+      "Version": "1.0.0.0",
+      "FileName": "文异.rar",
+      "PlugInType": "Development",
+      "Description": "比对文本差异"
     }
   ]
 }
