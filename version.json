@@ -64,6 +64,14 @@
       "FileName": "诗笺.rar",
       "PlugInType": "Life",
       "Description": "挂在屏幕的诗句"
+    },
+    {
+      "Id": "Almanac",
+      "Name": "黄历",
+      "Version": "1.0.0.0",
+      "FileName": "黄历.rar",
+      "PlugInType": "Life",
+      "Description": "干支、公农历、宜忌、月历"
     }
   ]
 }
