@@ -4,11 +4,12 @@
 
 ## 下载（v 2.2.0.0）
 
-- [Github-依赖.Net6.0](https://github.com/tp1415926535/JinXiaToolBox/blob/main/%E9%94%A6%E5%8C%A3v2.2.0.0-%E4%BE%9D%E8%B5%96.NET6.0.zip)
-- [蓝奏云](https://wwvr.lanzn.com/ieVE92intcsd)
-- [蓝奏云-依赖.Net6.0](https://wwvr.lanzn.com/iObWx2intbdc)
+- [Github-依赖.Net6.0](https://github.com/tp1415926535/JinXiaToolBox/blob/main/%E9%94%A6%E5%8C%A3v2.2.0.1-%E4%BE%9D%E8%B5%96.NET6.0.zip)
+- [蓝奏云](https://wwvr.lanzn.com/igygK2it0sdg)
+- [蓝奏云-依赖.Net6.0](https://wwvr.lanzn.com/iFIYN2it0rvi)
 
 ## 更新日志
+* v2.2.0.1 2024/12/23 滚动条样式优化；允许导航栏在高度不够时滚动
 * v2.2.0.0 2024/12/21 设置和插件市场并入主窗口，统一界面。设置变更改为自动保存无需询问。
 * v2.1.1.0 2024/12/19 下载插件增加进度显示，优化进度定义
 * v2.1.0.0 2024/12/19 插件接口结构调整，允许插件配置保留迁移。
