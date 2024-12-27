@@ -2,13 +2,14 @@
 锦匣 重构版，用WPF框架重写，提升视觉效果和性能，还用了MEF式插件结构，允许自由安装和卸载插件，也可以自行[编写插件](https://github.com/tp1415926535/JinXiaPluginExample)。      
 
 
-## 下载（v 2.2.0.2）
+## 下载（v 2.2.0.3）
 
-- [Github-依赖.Net6.0](https://github.com/tp1415926535/JinXiaToolBox/blob/main/%E9%94%A6%E5%8C%A3v2.2.0.2-%E4%BE%9D%E8%B5%96.NET6.0.zip)
-- [蓝奏云](https://wwvr.lanzn.com/i075o2iuqjri)
-- [蓝奏云-依赖.Net6.0](https://wwvr.lanzn.com/i1Ymr2iuqjvc)
+- [Github-依赖.Net6.0](https://github.com/tp1415926535/JinXiaToolBox/blob/main/%E9%94%A6%E5%8C%A3v2.2.0.3-%E4%BE%9D%E8%B5%96.NET6.0.zip)
+- [蓝奏云-独立](https://wwvr.lanzn.com/ijtxY2j5id8b)
+- [蓝奏云-依赖.Net6.0](https://wwvr.lanzn.com/ihl0r2j5idbe)
 
 ## 更新日志
+* v2.2.0.3 2024/12/27 修复下载进度监控组件被释放导致下载失败
 * v2.2.0.2 2024/12/23 修复卸载后重装插件保存快捷键报错
 * v2.2.0.1 2024/12/23 滚动条样式优化；允许导航栏在高度不够时滚动
 * v2.2.0.0 2024/12/21 设置和插件市场并入主窗口，统一界面。设置变更改为自动保存无需询问。
