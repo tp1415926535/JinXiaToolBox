@@ -68,7 +68,7 @@
     {
       "Id": "Almanac",
       "Name": "黄历",
-      "Version": "1.0.0.0",
+      "Version": "1.1.0.0",
       "FileName": "黄历.rar",
       "PlugInType": "Life",
       "Description": "干支、公农历、宜忌、月历"
