@@ -60,7 +60,7 @@
     {
       "Id": "DesktopPoem",
       "Name": "诗笺",
-      "Version": "1.0.0.0",
+      "Version": "1.1.0.0",
       "FileName": "诗笺.rar",
       "PlugInType": "Life",
       "Description": "挂在屏幕的诗句"
