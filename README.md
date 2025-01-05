@@ -1,6 +1,9 @@
 # 锦匣[JinXiaToolBox]
 锦匣 重构版，用WPF框架重写，提升视觉效果和性能，还用了MEF式插件结构，允许自由安装和卸载插件，也可以自行[编写插件](https://github.com/tp1415926535/JinXiaPluginExample)。      
 
+![截图1](截图/锦匣介绍1.jpg)     
+    
+![截图2](截图/锦匣介绍2.jpg)     
 
 ## 下载（v 2.2.0.4）
 
