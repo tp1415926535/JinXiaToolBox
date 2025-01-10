@@ -5,13 +5,14 @@
     
 ![截图2](截图/锦匣介绍2.jpg)     
 
-## 下载（v 2.2.0.4）
+## 下载（v 2.2.0.5）
 
-- [Github-依赖.Net6.0](https://github.com/tp1415926535/JinXiaToolBox/blob/main/%E9%94%A6%E5%8C%A3v2.2.0.4-%E4%BE%9D%E8%B5%96.NET6.0.zip)
-- [蓝奏云-独立](https://wwvr.lanzn.com/i6spp2jdi1pe)
-- [蓝奏云-依赖.Net6.0](https://wwvr.lanzn.com/ipzbt2jdhzzc)
+- [Github-依赖.Net6.0](https://github.com/tp1415926535/JinXiaToolBox/blob/main/%E9%94%A6%E5%8C%A3v2.2.0.5-%E4%BE%9D%E8%B5%96.NET6.0.zip)
+- [蓝奏云-独立](https://wwvr.lanzn.com/iuLqd2kjlfwf)
+- [蓝奏云-依赖.Net6.0](https://wwvr.lanzn.com/iIe5S2kjlemj)
 
 ## 更新日志
+* v2.2.0.5 2025/1/10 窗体隐藏时不显示请求失败提示，修复可能的导入时间过长提示出错
 * v2.2.0.4 2024/12/30 修复程序锁中文的潜在错误
 * v2.2.0.3 2024/12/27 修复下载进度监控组件被释放导致下载失败
 * v2.2.0.2 2024/12/23 修复卸载后重装插件保存快捷键报错
